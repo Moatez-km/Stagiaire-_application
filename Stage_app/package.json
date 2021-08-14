@@ -1,0 +1,22 @@
+{
+  "name": "stagiaire",
+  "version": "1.0.0",
+  "description": "Mean Stack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Moatez Kamoun",
+  "license": "ISC"
+}
